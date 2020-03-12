@@ -1,6 +1,10 @@
 # weather_flutter_ui_challenge
 
-A new Flutter project.
+A Flutter UI challenge project for a weather application.
+
+![ScreenShot](/assets/ss1.png)
+![ScreenShot](/assets/ss2.png)
+Format: ![Flutter](https://flutter.dev)
 
 ## Getting Started
 
