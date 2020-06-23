@@ -2,8 +2,9 @@
 
 A Flutter UI challenge project for a weather application.
 
-![ScreenShot](/assets/ss1.png)
-![ScreenShot](/assets/ss2.png)
+| <img src="assets/ss1.png" width="300"/> | <img src="assets/ss2.png" width="300"/> 
+|:---:|:---:|
+|Top| Bottom|
 Format: ![Flutter](https://flutter.dev)
 
 ## Getting Started
